@@ -1,0 +1,15 @@
+190405_2048 Negative(RGB) 50 epoch
+190405_2206 Negative(RGB) 2000 epoch
+190412_1100 Negative(Gray) 50 epoch
+190412_1319 Negative(Gray) 500 epoch
+190419_2007 Negative(RGB) 50 epoch ABC loss = e^-x
+190419_2130 Negative(RGB) 50 epoch ABC loss(paper)
+190419_2210 Negative(RGB) 2000 epoch ABC loss(paper)
+190426_2045 Oversize(over_data) 2000 epoch ABC loss
+190507_1123 Oversize(nsize_data) 2000 epoch ABC loss
+190517_1836 Negative_ABC 1000epoch #1
+190517_1836 Negative_ABC 1000epoch #2
+
+
+
+
